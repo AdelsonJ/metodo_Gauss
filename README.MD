@@ -13,7 +13,7 @@ Este projeto implementa um programa em Python que lê um sistema de equações l
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
   ```bash
-  git clone https://github.com/AdelsonJ/seu-repositorio.git
+  git clone https://github.com/AdelsonJ/metodo_Gauss
   ```
 2. Certifique-se de ter um arquivo contendo o sistema de equações, no seguinte formato:
 - Todos os coeficientes 0 devem ser explicitamente representados junto das variáveis.
